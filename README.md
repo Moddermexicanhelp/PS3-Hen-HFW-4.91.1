@@ -10,7 +10,7 @@ https://www.playstation.com/es-mx/support/hardware/ps3/system-software/
 anexó pagina oficial Sony para que tengas una idea clara ahora que ya tienes el archivo en tu USB la insertamos en la Playstation 3 en el Puerto delantero derecho. una vez hagamos esto apagamos la consola Playstation 3  y estando prendido el botón rojo iniciamos la consola en MODO RECOVERY 
 anexó video 
 https://youtu.be/LIVgl4jEknY?si=tSw64Nc4F8QJxepc
-ya en el modo desarrollador le ponemos en la última opción instalar actuales de usb ya que si lo hacemos desde la consola encendida en el menú principal no deja instalar este update modificado instalamos la actualización y cuando inicien la condola ya estaremos en los últimos pasos una vez ya se haya unstalado la actualización conectamos la consola ps3 a internet 🛜
+ya en el modo desarrollador le ponemos en la última opción instalar actualizacion de usb ya que si lo hacemos desde la consola encendida en el menú principal no deja instalar este update modificado instalamos la actualización y cuando inicien la condola ya estaremos en los últimos pasos una vez ya se haya unstalado la actualización conectamos la consola ps3 a internet 🛜
 
 vamos al buscador e ingresamos esta 
 dirección 
